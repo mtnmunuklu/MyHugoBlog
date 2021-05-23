@@ -1,0 +1,4 @@
+baseURL = "https://metinmunuklu.github.io/"
+languageCode = "en-us"
+title = "Metin Munuklu Blog"
+theme="hugo-ink"
