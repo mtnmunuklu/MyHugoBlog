@@ -1,0 +1,4 @@
+[submodule "metinmunuklublog/public"]
+	path = metinmunuklublog/public
+	url = https://github.com/mtnmunuklu/metinmunuklu.github.io.git
+	branch = main
